@@ -23,6 +23,13 @@ The dataset contains campaign-level performance data including:
 - Campaign Type, Channel Used, Location, and Target Audience
 - Date information for trend analysis
 
+### Dataset Note
+Due to GitHub file size limitations, the full dataset could not be uploaded directly.
+A compressed version of the dataset is included, along with a representative sample CSV
+(5,000–10,000 rows) for reference.
+
+The complete dataset was used locally for analysis and is sourced from a public dataset.
+
 ---
 
 ### Tools & Technologies
@@ -82,3 +89,4 @@ An interactive Power BI dashboard presenting KPIs, campaign comparisons, geograp
 ---
 
 ### Repository Structure
+
